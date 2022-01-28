@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "http://localhost:1313"
+baseURL = "https://davokr.github.io/ProbablyTroy.com/"
 languageCode = "en-us"
 theme = "ananke"
 
